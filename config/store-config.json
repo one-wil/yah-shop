@@ -1,5 +1,66 @@
 {
-  "PRODUCTS": {},
+  "PRODUCTS": {
+    "1788639741485": {
+      "name": "عباية ",
+      "price": 8000,
+      "description": "Fgghjxf dggg",
+      "category": "",
+      "stock": 0,
+      "featured": false,
+      "availableColors": [
+        "أبيض",
+        "أسود"
+      ],
+      "availableSizes": [
+        "S",
+        "M"
+      ],
+      "ageRanges": [],
+      "colorImages": {
+        "أبيض": {
+          "images": [
+            "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-أبيض-1788640012167-modal1.jpg"
+          ],
+          "ageRanges": [
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "S"
+            },
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "M"
+            }
+          ]
+        },
+        "أسود": {
+          "images": [
+            "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-أسود-1788640070100-Screenshot-20251110-233548-Perplexity.jpg"
+          ],
+          "ageRanges": [
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "S"
+            },
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "M"
+            }
+          ]
+        }
+      },
+      "sizeGuide": {
+        "enabled": false,
+        "guide": {}
+      },
+      "createdAt": "2026-09-05T20:22:21.485Z",
+      "image": "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-1788639951196-Screenshot-20251006-135317-Facebook.jpg",
+      "updatedAt": "2026-09-05T20:26:26.137Z"
+    }
+  },
   "PRODUCT_ORDER": {},
   "DELIVERY_PRICES": {
     "01 - أدرار": {

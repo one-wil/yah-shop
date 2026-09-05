@@ -3,13 +3,69 @@
 // ⚙️ ملف الإعدادات الرئيسي للمتجر
 // =============================================================================
 
-const STOREMASTER_LICENSE = {
-    storeId: "__STOREMASTER_STORE_ID__",
-    token: "__STOREMASTER_TOKEN__"
-};
-
 const STORE_CONFIG = {
-  "PRODUCTS": {},
+  "PRODUCTS": {
+    "1788639741485": {
+      "name": "عباية ",
+      "price": 8000,
+      "description": "Fgghjxf dggg",
+      "category": "",
+      "stock": 0,
+      "featured": false,
+      "availableColors": [
+        "أبيض",
+        "أسود"
+      ],
+      "availableSizes": [
+        "S",
+        "M"
+      ],
+      "ageRanges": [],
+      "colorImages": {
+        "أبيض": {
+          "images": [
+            "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-أبيض-1788640012167-modal1.jpg"
+          ],
+          "ageRanges": [
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "S"
+            },
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "M"
+            }
+          ]
+        },
+        "أسود": {
+          "images": [
+            "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-أسود-1788640070100-Screenshot-20251110-233548-Perplexity.jpg"
+          ],
+          "ageRanges": [
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "S"
+            },
+            {
+              "ageFrom": " ",
+              "ageTo": " ",
+              "size": "M"
+            }
+          ]
+        }
+      },
+      "sizeGuide": {
+        "enabled": false,
+        "guide": {}
+      },
+      "createdAt": "2026-09-05T20:22:21.485Z",
+      "image": "https://raw.githubusercontent.com/one-wil/yah-shop/main/images/product-1788639741485-1788639951196-Screenshot-20251006-135317-Facebook.jpg",
+      "updatedAt": "2026-09-05T20:26:26.137Z"
+    }
+  },
   "PRODUCT_ORDER": {},
   "DELIVERY_PRICES": {
     "01 - أدرار": {
@@ -277,7 +333,7 @@ const STORE_CONFIG = {
     "promoDiscountProducts": []
   },
   "STORE_INFO": {
-    "name": "",
+    "name": "Yah-shop",
     "storeIcon": "-",
     "storeTitle": "-",
     "tagline": "",
@@ -1234,7 +1290,10 @@ const STORE_CONFIG = {
     "مسك",
     "عنبر"
   ],
-  "ORDERS": []
+  "ORDERS": [],
+  "STORE_ID": "4d501de0-c174-4358-b0e2-34df20183f44",
+  "STORE_TOKEN_HINT": "XT3MyDjhvc",
+  "LICENSE_SERVER": "https://storemaster-worker.vivavoir150.workers.dev"
 };
 
 // =============================================================================
